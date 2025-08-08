@@ -1,1 +1,1 @@
-# odin-recipes
+This project will demonstrate my abilities to code using HTML as well as become familiar with Github repsoitories. Learning how to clone, commit changes, and properly use messages to explain the changes I made while working on the project.
